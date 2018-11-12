@@ -1,6 +1,6 @@
 # Ada Data Visualisation Workshop 2018
 
-Hey, here's some material from our workshop 2018. Let me know if you're missing anything or have any other questions 🐳
+Hey, here's some material from our workshop 2018. Let me know if you're missing anything or have any other questions at lars@datamake.io or at [@lars_vers](https://twitter.com/@lars_vers). 🐳
 
 ### Links
 
